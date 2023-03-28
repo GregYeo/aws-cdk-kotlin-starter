@@ -1,0 +1,7 @@
+{
+  "app": "./gradlew run",
+  "build": "./gradlew build -x test",
+  "watch": {
+    "include": "src/main/**"
+  }
+}
