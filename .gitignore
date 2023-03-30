@@ -1,5 +1,8 @@
 .gradle/
 build/
-cdk.out/
+cdk.out
+cdk.context.json
+cdk-outputs.json
+!cdk.json
 .idea/
 .env
