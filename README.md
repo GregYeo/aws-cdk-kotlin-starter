@@ -37,7 +37,7 @@ cdk bootstrap
 
 ### To create AWS resource
 ```shell
-cdk deploy --all
+cdk deploy --all --outputs-file ./cdk-outputs.json
 ```
 
 ### To remove AWS resource
